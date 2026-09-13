@@ -66,4 +66,3 @@ Bioinformatics analysis to identify hub genes and signaling pathways associated 
 
 # Author
 - Nargess Soleimany _ Lee Eunsoo
-[اسم خودت رو اینجا بنویس]
